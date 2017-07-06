@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Caleb + Tev"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Caleb + Tev"
+description              : "Gay. Jewish. Global."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -75,12 +75,12 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author (Sidebar Info)
 author:
-  name             : "Your Name"
+  name             : "Caleb + Tev"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Gay. Jewish. Global."
+  location         : "San Francisco"
   email            :
   uri              :
   bitbucket        :
