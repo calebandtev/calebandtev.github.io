@@ -8,8 +8,9 @@
 # Site Settings
 locale                   : "en"
 title                    : "Caleb + Tev"
+tagline                  : "Gay. Jewish. Global."
 title_separator          : "-"
-name                     : "Caleb + Tev"
+name                     : "Caleb + Tev" # site name
 description              : "Gay. Jewish. Global."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
