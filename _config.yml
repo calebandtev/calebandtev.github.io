@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Caleb + Tev"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Gay. Jewish. Global."
+  bio              : "Just another progressive Jewish gay couple trying to change the world."
   location         : "San Francisco"
   email            :
   uri              :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -113,6 +113,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
