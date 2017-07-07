@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Caleb and Tev are the Hebrew names of Ron and Brian, a progressive gay Jewish couple currently living in San Francisco.
+Caleb and Tev are the Hebrew names of Ron and Brian, a progressive Jewish gay couple currently living in San Francisco.
 
 
 ## Ron (Caleb)
