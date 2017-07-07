@@ -11,5 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+  - title: "Welcome"
+    url: /
   - title: "About"
     url: /about/
