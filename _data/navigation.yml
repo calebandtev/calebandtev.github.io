@@ -11,7 +11,11 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  - title: "Welcome"
+  - title: Home
     url: /
+  - title: "Blog"
+    url: https://calebandtev.wordpress.com/
+  - title: "Channel"
+    url: https://www.youtube.com/user/calebandtev/
   - title: "About"
     url: /about/
